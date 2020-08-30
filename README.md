@@ -14,7 +14,7 @@ spicetify apply
 #### `fullAppDisplay.js`
 A script that adds a fullscreen view of the currently playing song.
 
-![screenshot](img1/s1.png)
+![screenshot](img/s1.png)
 
 Adapted from [here](https://github.com/khanhas/spicetify-cli/blob/367c4afc53dcd38898e7d7344f51cf885e79310a/Extensions/fullAppDisplay.js).
 
