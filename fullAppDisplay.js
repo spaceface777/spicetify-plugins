@@ -51,7 +51,7 @@
     top: 38%;
     background-color: #ccca;
     border-radius: 100%;
-    border: 5px solid #777;
+    border: 3px solid #000;
 }
 #fad-progress-container {
     width: 100%;
